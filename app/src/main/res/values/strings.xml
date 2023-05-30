@@ -3,5 +3,7 @@
     <string name="tvDBS">DBS</string>
     <string name="tvOCBC">OCBC</string>
     <string name="tvUOB">UOB</string>
+    <string name="englishSelection">English</string>
+    <string name="malaySelection">Malay</string>
 
 </resources>
