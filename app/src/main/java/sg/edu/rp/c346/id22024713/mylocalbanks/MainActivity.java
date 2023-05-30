@@ -101,7 +101,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intentWebsite);
                 return true;
             } else if (item.getItemId() == 2) {
-                uob.setTextColor(Color.parseColor("#FF0000"));
                 if (uob.getCurrentTextColor() == Color.parseColor("black")) {
                     uob.setTextColor(Color.parseColor("#FF0000"));
                 } else {
